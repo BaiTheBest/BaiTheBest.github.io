@@ -43,8 +43,6 @@ Exploring scalable and efficient solutions for machine learning systems, with a 
 Enhancing machine learning models' adaptability and effectiveness across various domains and tasks, with a focus on temporal domain generalization and multi-task learning.
 
 ### a) Domain Adaptation/Generalization
-- [**Prompt-Based Domain Discrimination for Multi-source Time Series Domain Adaptation**](https://arxiv.org/abs/2312.12276)  
-  _KDD 2024_  
 - [**Continuous Temporal Domain Generalization**](https://arxiv.org/abs/2405.16075)  
   _NeurIPS 2024_  
 - [**Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks**](https://openreview.net/pdf?id=sWOsRj4nT1n)  
