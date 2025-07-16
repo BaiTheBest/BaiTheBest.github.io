@@ -16,6 +16,16 @@ Zheng Chai\*, <b>Guangji Bai</b>\*, Liang Zhao, Yue Cheng.<br>
 [[paper](https://arxiv.org/abs/2206.00057)]<br>
 
 ## 2025
+* <b>Saliency-Bench: A Comprehensive Benchmark for Evaluating Visual Explanations</b>.<br>
+Yifei Zhang, James Song, Siyi Gu, Tianxu Jiang, Bo Pan, <b>Guangji Bai</b>, Liang Zhao.<br>
+<i>The 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (Datasets and Benchmarks Track, KDD 2025)</i>.<br>
+[[paper](https://arxiv.org/abs/2310.08537)][[project website & code](https://xaidataset.github.io/)]<br>
+
+* <b>SST: Multi-Scale Hybrid Mamba-Transformer Experts for Long-Short Range Time Series Forecasti</b>.<br>
+Xiongxiao Xu, Canyu Chen, Yueqing Liang, Baixiang Huang, <b>Guangji Bai</b>, Liang Zhao, Kai Shu.<br>
+<i>The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025 AI4TS Workshop)</i>.<br>
+[[paper](https://arxiv.org/abs/2404.14757)][[code](https://github.com/XiongxiaoXu/SST)]<br>
+
 * <b>FedSpaLLM: Federated Pruning of Large Language Models</b>.<br>
 <b>Guangji Bai</b>, Yijiang Li, Zilinghan Li, Liang Zhao, Kibaek Kim.<br>
 <i>The North American Chapter of the Association for Computational Linguistics (NAACL 2025 main)</i>.<br>
@@ -56,7 +66,7 @@ Chen Ling, Xujiang Zhao, Xuchao Zhang, Wei Cheng, Yanchi Liu, Yiyou Sun, Mika Oi
 ## 2023
 * <b>Saliency-Guided Hidden Associative Replay for Continual Learning</b>.<br>
 <b>Guangji Bai</b>, Qilong Zhao, Xiaoyang Jiang, Liang Zhao.<br>
-<i>AMHN Workshop @NeurIPS 2023</i>.<br>
+<i>The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2023 AMHN Workshop)</i>.<br>
 [[paper](https://openreview.net/pdf?id=Fhx7nVoCQW)][[code](https://github.com/BaiTheBest/SHARC)]<br>
 
 * <b>Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks</b>.<br>
